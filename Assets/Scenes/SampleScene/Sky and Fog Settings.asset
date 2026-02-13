@@ -15,7 +15,7 @@ MonoBehaviour:
   active: 1
   distance:
     m_OverrideState: 1
-    m_Value: 512
+    m_Value: 125
   baseHeight:
     m_OverrideState: 1
     m_Value: 0
@@ -30,7 +30,7 @@ MonoBehaviour:
     m_Value: 0
   density:
     m_OverrideState: 1
-    m_Value: 0.02
+    m_Value: 0.018
   attenuationDistance:
     m_OverrideState: 1
     m_Value: 128
@@ -57,7 +57,7 @@ MonoBehaviour:
     m_Value: 0
   maxSteps:
     m_OverrideState: 1
-    m_Value: 128
+    m_Value: 88
   blurIterations:
     m_OverrideState: 1
     m_Value: 2
